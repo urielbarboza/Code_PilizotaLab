@@ -1,3 +1,3 @@
-# Msc-Dissertation
+# Code
 
-Code Use for my Dissertation at the Pilizota Lab in the Universit of Edinburgh 2019
+Code Used to analyze my work on Photodamage and Chemosensory Experiments. 
